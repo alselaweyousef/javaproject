@@ -23,6 +23,12 @@ public class gitclass {
          return x;
          
      }
+     
+     public void call(){
+         
+        int t = sum();
+         
+     }
     
     
     
